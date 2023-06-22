@@ -13,8 +13,8 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>IMMORTAL-BOT</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/IMMORTAL_DEVELOPER>IMMORTAL DEVELOPER</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/IMMORTAL_BOT_UPDATE>BOT UPDATES</a>"""
+- 𝙳𝚎𝚟 1<a href=https://t.me/IMMORTAL_DEVELOPER>𝙸𝙼𝙼𝙾𝚁𝚃𝙰𝙻 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</a>
+- 𝙳𝚎𝚟 2<a href=https://t.me/IMMORTAL_BOTS>𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +28,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/IMMORTAL_BOT_UPDATE https://t.me/IMMORTAL_BOT_UPDATE</code>
+<code>/batch https://t.me/IMMORTAL_BOTS https://t.me/IMMORTAL_BOTS</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/IMMORTAL_BOT_UPDATE><b>IMMORTAL BOT UPDATE</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/IMMORTAL_BOTS><b>𝙸𝙼𝙼𝙾𝚁𝚃𝙰𝙻 𝙱𝙾𝚃𝚂</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/IMMORTAL_DEVELOPER>Mr.IMMORTAL DEVELOPER</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/IMMORTAL_DEVELOPER>Mr.𝙸𝙼𝙼𝙾𝚁𝚃𝙰𝙻 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -188,7 +188,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/IMMORTAL_DEVELOPER>IMMORTAL DEVELOPER</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/IMMORTAL_DEVELOPER>𝙸𝙼𝙼𝙾𝚁𝚃𝙰𝙻 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
